@@ -129,8 +129,8 @@ musearte/
 ## 👨‍🎨 Autor
 
 Proyecto creado por **Jordan Javier Porras Gómez**  
-Materia: JavaScript - Práctica Parcial 2  
-Universidad: [Nombre de tu institución]
+Materia: Programación Web - Práctica Parcial 2  
+Universidad: Unidades Tecnológicas de Santander
 
 ---
 
