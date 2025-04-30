@@ -5,6 +5,8 @@ MuseArte es una aplicación web ligera construida con **Node.js**, **Express** y
 Su contenido está embebido directamente en el código mediante objetos estáticos, sin base de datos.  
 Este proyecto fue desarrollado como parte de una práctica académica.
 
+![Imagen Galeria](./public/img/ImagenGaleria.png)
+
 ---
 
 ## ✨ Características
